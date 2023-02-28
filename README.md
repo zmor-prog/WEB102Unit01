@@ -1,11 +1,11 @@
 # WEB102Unit01
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - Black and Blackish Beauty Representation
 
 Submitted by: **Zamirah Morgan**
 
-This web app: **creates events or resources board for my community!**
+This web app: Shows off Black and Blackish Beauty Representation in Hollywood.
 
-Time spent: **X** hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://github.com/zmor-prog/WEB102Unit01/blob/main/web102_lab01_gif.gif' title='Video Walkthrough' width='35%' alt='Video Walkthrough' />
+<img src='https://github.com/zmor-prog/WEB102Unit01/blob/main/web102_lab01_gif.gif' title='Video Walkthrough' width='45%' alt='Video Walkthrough' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
